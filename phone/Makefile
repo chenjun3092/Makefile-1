@@ -1,4 +1,4 @@
-#Copyright (c) 2017 华清远见(广州分中心)-171201
+#Copyright (c) 2017 xiethon126.com
 #
 #Makefile示例
 
